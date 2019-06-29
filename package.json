@@ -1,0 +1,24 @@
+{
+  "name": "deskport",
+  "productName": "Cyclone : Deskport",
+  "version": "1.0.0",
+  "description": "Run your Flash version of Habbo Hotel as a Desktop Application on Windows, MacOS and Linux",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CycloneIO/Deskport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CycloneIO/Deskport/issues"
+  },
+  "homepage": "https://github.com/CycloneIO/Deskport#readme",
+  "devDependencies": {
+    "electron": "^6.0.0-beta.11"
+  }
+}

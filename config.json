@@ -1,0 +1,12 @@
+{
+	"hotel": {
+		"name": "Habbo",
+		"url": "https://habbo.com",
+		"client": "https://habbo.com/hotel"
+	},
+	"settings": {
+		"enableMenu": false,
+		"enableDevTools": false,
+		"startMaximized": true 
+	}
+}
